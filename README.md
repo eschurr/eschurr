@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **eschurr/eschurr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi! My name is Eric, and am currently a senior majoring in Computer Science at the University of Kentucky. I love software development, and have a special interest in sports!
+
