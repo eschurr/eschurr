@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! My name is Eric, and am a Computer Science grad from the University of Kentucky. I love software development, and have a special interest in sports!
 
